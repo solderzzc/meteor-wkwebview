@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'practicalmeteor:wkwebview',
+  name: 'solderzzc:wkwebview',
   version: '0.1.2',
-  summary: 'Use the significantly better and faster WKWebView in mobile apps on iOS 8+.',
-  git: 'https://github.com/practicalmeteor/meteor-wkwebview',
+  summary: 'Use the significantly better and faster WKWebView in mobile apps on iOS 8+. Latest Version.',
+  git: 'https://github.com/solderzzc/meteor-wkwebview',
   documentation: 'README.md'
 });
 
